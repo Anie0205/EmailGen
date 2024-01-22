@@ -1,0 +1,11 @@
+commands:
+.venv\Scripts\Activate
+
+cd Desktop\Anie\Personal_projects\EmailGenerator
+
+streamlit run C:\Users\anany\Desktop\Anie\Personal_projects\EmailGenerator\app.py
+
+Prompt:
+Invitation to a history exhibition for all medieval history enthusiasts.
+Mark
+Anthony
